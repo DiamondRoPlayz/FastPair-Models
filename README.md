@@ -5,6 +5,7 @@ Android Fast Pair Model IDs
 
 Genuine devices, Found by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
+0x72EF8D // Razer Hammerhead TWS X
 0x0E30C3 // Razer Hammerhead TWS
 ```
 
