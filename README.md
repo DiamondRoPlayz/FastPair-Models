@@ -3,7 +3,7 @@ Android Fast Pair Model IDs
 
 <br>
 
-Genuine devices, Found by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
+Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
 0x72EF8D // Razer Hammerhead TWS X
 0x0E30C3 // Razer Hammerhead TWS
@@ -21,7 +21,7 @@ Custom debug popups, Created by [@DiamondRoPlayz](https://github.com/DiamondRoPl
 
 <br>
 
-Genuine devices, Found by [@Willy-JL](https://github.com/Willy-JL) and [@Spooks4576](https://github.com/Spooks4576)
+Genuine devices, Discovered by [@Willy-JL](https://github.com/Willy-JL) and [@Spooks4576](https://github.com/Spooks4576)
 ```js
 0xCD8256 // Bose NC 700
 0xF52494 // JBL Buds Pro
