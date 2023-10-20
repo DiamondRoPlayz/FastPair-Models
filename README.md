@@ -1,5 +1,5 @@
 # Fast Pair Models
-Google Fast Pair Model IDs
+Android Fast Pair Model IDs
 
 <br>
 
