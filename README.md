@@ -31,3 +31,10 @@ Genuine devices, Discovered by [@Willy-JL](https://github.com/Willy-JL) and [@Sp
 0xD446A7 // Sony XM5
 0x2D7A23 // Sony WF-1000XM4
 ```
+
+<br>
+
+Genuine devices, Discovered by [@xAstroBoy](https://github.com/xAstroBoy)
+```js
+0x72FB00 // Soundcore Spirit Pro GVA
+```
