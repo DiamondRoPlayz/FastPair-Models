@@ -1,9 +1,12 @@
-# Fast Pair Models
-Android Fast Pair Model IDs
-
-<a href="https://hits.seeyoufarm.com/">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiamondRoPlayz%2FFastPair-Models&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
-</a>
+<h1 align="center">Fast Pair Models</h1>
+<p align="center">
+  <a href="#">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiamondRoPlayz%2FFastPair-Models&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/DiamondRoPlayz/FastPair-Models?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github"/>
+  </a>
+</p>
 
 <br>
 <br>
