@@ -18,11 +18,14 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x00000D // Test 00000D
 0x000007 // Android Auto
 0x000008 // Foocorp Foophones
+0x080000 // Foocorp Foophones
 0x000009 // Test Android TV
+0x090000 // Test Android TV
 0x00000B // Google Gphones
 0x0A0000 // Test 00000a - Anti-Spoofing
 0x0B0000 // Google Gphones
 0x0C0000 // Google Gphones
+0x060000 // Google Pixel Buds
 ```
 
 <br>
@@ -56,7 +59,7 @@ Genuine devices, Discovered by [@xAstroBoy](https://github.com/xAstroBoy)
 0x00000A // Test 00000a - Anti-Spoofing
 0x0001F0 // Bisto CSR8670 Dev Board
 0x000047 // Arduino 101
-0x000006 // Google Pixel buds
+0x000006 // Google Pixel Buds
 ```
 
 <br>
