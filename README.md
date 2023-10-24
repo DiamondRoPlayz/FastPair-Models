@@ -15,11 +15,14 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 ```js
 0x72EF8D // Razer Hammerhead TWS X
 0x0E30C3 // Razer Hammerhead TWS
-0x00000B // Google Gphones
 0x00000D // Test 00000D
 0x000007 // Android Auto
 0x000008 // Foocorp Foophones
 0x000009 // Test Android TV
+0x00000B // Google Gphones
+0x0A0000 // Test 00000a - Anti-Spoofing
+0x0B0000 // Google Gphones
+0x0C0000 // Google Gphones
 ```
 
 <br>
@@ -50,7 +53,7 @@ Genuine devices, Discovered by [@Willy-JL](https://github.com/Willy-JL) and [@Sp
 Genuine devices, Discovered by [@xAstroBoy](https://github.com/xAstroBoy)
 ```js
 0x72FB00 // Soundcore Spirit Pro GVA
-0x00000a // Anti-Spoofing Test (lmao)
+0x00000A // Test 00000a - Anti-Spoofing
 0x0001F0 // Bisto CSR8670 Dev Board
 0x000047 // Arduino 101
 0x000006 // Google Pixel buds
