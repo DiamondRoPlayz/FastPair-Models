@@ -17,6 +17,7 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x0E30C3 // Razer Hammerhead TWS
 0x00000D // Test 00000D
 0x000007 // Android Auto
+0x070000 // Android Auto
 0x000008 // Foocorp Foophones
 0x080000 // Foocorp Foophones
 0x000009 // Test Android TV
