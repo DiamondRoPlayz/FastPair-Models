@@ -67,5 +67,5 @@ Genuine devices, Discovered by [@xAstroBoy](https://github.com/xAstroBoy)
 
 Genuine actions, Discovered by [@Mr-Proxy-source](https://github.com/Mr-Proxy-source)
 ```js
-0x00000C // Set Up Device
+0x00000C // Set Up Device aka Google Gphones
 ```
