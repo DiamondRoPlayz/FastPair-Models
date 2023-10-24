@@ -27,6 +27,8 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x0B0000 // Google Gphones
 0x0C0000 // Google Gphones
 0x060000 // Google Pixel Buds
+0x000048 // Fast Pair Headphones (email visable)
+0x000049 // Fast Pair Headphones
 ```
 
 <br>
