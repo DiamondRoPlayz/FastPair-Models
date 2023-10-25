@@ -29,6 +29,7 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x060000 // Google Pixel Buds
 0x000048 // Fast Pair Headphones
 0x000049 // Fast Pair Headphones
+0x000035 // Test 000035
 ```
 
 <br>
@@ -63,6 +64,8 @@ Genuine devices, Discovered by [@xAstroBoy](https://github.com/xAstroBoy)
 0x0001F0 // Bisto CSR8670 Dev Board
 0x000047 // Arduino 101
 0x000006 // Google Pixel Buds
+0x0000F0 // Bose QuietComfort 35 II
+0x0003F0 // LG HBS-835S
 ```
 
 <br>
