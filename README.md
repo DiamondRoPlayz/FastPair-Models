@@ -30,6 +30,9 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x000048 // Fast Pair Headphones
 0x000049 // Fast Pair Headphones
 0x000035 // Test 000035
+0x001000 // LG HBS1110
+0x002000 // AIAIAI TMA-2 (H60)
+0x003000 // Libratone Q Adapt On-Ear
 ```
 
 <br>
