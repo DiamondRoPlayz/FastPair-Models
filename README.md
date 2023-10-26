@@ -54,20 +54,45 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x011242 // Nirvana Ion
 0x013D8A // Cleer EDGE Voice
 0x01AA91 // Beoplay H9 3rd Generation
+
+0x01C95C // Sony WF-1000X
+0x01E5CE // BLE-Phone
+0x01EEB4 // WH-1000XM4
+0x0200F0 // Goodyear
+0x02AA91 // B&O Earset
+0x02C95C // Sony WH-1000XM2
+0x02D815 // ATH-CK1TW
+0x02D886 // JBL REFLECT MINI NC
+0x02DD4F // JBL TUNE770NC
+0x02E2A9 // TCL MOVEAUDIO S200
+0x02F637 // JBL LIVE FLEX
+0x035754 // Plantronics PLT_K2
+0x035764 // PLT V8200 Series
+0x038B91 // DENON AH-C830NCW
+0x038CC7 // JBL TUNE760NC
+0x038F16 // Beats Studio Buds
+0x039F8F // Michael Kors Darci 5e
+0x03AA91 // B&O Beoplay H8i
+0x03B716 // YY2963
+0x03C95C // Sony WH-1000XM2
+0x03C99C // MOTO BUDS 135
+0x03F5D4 // Writing Account Key
+0x045754 // Plantronics PLT_K2
+0x045764 // PLT V8200 Series
 ```
 JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
-0xF00200 // JBL Everest 110GA - Gun Metal
-0xF00201 // JBL Everest 110GA - Gun Metal
-0xF00202 // JBL Everest 110GA - Silver
+0xF00200, 0x0002F0 // JBL Everest 110GA - Gun Metal
+0xF00201, 0x0102F0 // JBL Everest 110GA - Gun Metal
+0xF00202, 0x0202F0 // JBL Everest 110GA - Silver
 
-0xF00203 // JBL Everest 310GA - Brown
-0xF00204 // JBL Everest 310GA - Gun Metal
-0xF00205 // JBL Everest 310GA - Silver
-0xF00206 // JBL Everest 310GA - Purple
+0xF00203, 0x0302F0 // JBL Everest 310GA - Brown
+0xF00204, 0x0402F0 // JBL Everest 310GA - Gun Metal
+0xF00205, 0x0502F0 // JBL Everest 310GA - Silver
+0xF00206, 0x0602F0 // JBL Everest 310GA - Purple
 
-0xF00207 // JBL Everest 710GA - Gun Metal
-0xF00208 // JBL Everest 710GA - Silver
+0xF00207, 0x0702F0 // JBL Everest 710GA - Gun Metal
+0xF00208, 0x0802F0 // JBL Everest 710GA - Silver
 
 0xF00209 // JBL LIVE400BT - Black
 0xF0020A // JBL LIVE400BT - White
@@ -87,16 +112,16 @@ JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```
 LG devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
-0xF00300 // LG HBS-835S
-0xF00301 // LG HBS-835
-0xF00302 // LG HBS-830
-0xF00303 // LG HBS-930
-0xF00304 // LG HBS-1010
-0xF00305 // LG HBS-1500
-0xF00306 // LG HBS-1700
-0xF00307 // LG HBS-1120
-0xF00308 // LG HBS-1125
-0xF00309 // LG HBS-2000
+0xF00300, 0x0003F0 // LG HBS-835S
+0xF00301, 0x0103F0 // LG HBS-835
+0xF00302, 0x0203F0 // LG HBS-830
+0xF00303, 0x0303F0 // LG HBS-930
+0xF00304, 0x0403F0 // LG HBS-1010
+0xF00305, 0x0503F0 // LG HBS-1500
+0xF00306, 0x0603F0 // LG HBS-1700
+0xF00307, 0x0703F0 // LG HBS-1120
+0xF00308, 0x0803F0 // LG HBS-1125
+0xF00309, 0x0903F0 // LG HBS-2000
 ```
 
 <br>
