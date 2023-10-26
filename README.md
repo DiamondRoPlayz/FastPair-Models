@@ -29,11 +29,15 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x060000 // Google Pixel Buds
 0x000048 // Fast Pair Headphones
 0x000049 // Fast Pair Headphones
+0x480000 // Fast Pair Headphones
+0x490000 // Fast Pair Headphones
 0x000035 // Test 000035
 0x350000 // Test 000035
 0x001000 // LG HBS1110
 0x002000 // AIAIAI TMA-2 (H60)
 0x003000 // Libratone Q Adapt On-Ear
+0x470000 // Arduino 101
+0xF00000 // Bose QuietComfort 35 II
 ```
 
 <br>
