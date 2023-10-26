@@ -36,9 +36,24 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x001000 // LG HBS1110
 0x002000 // AIAIAI TMA-2 (H60)
 0x003000 // Libratone Q Adapt On-Ear
+0x003001 // Libratone Q Adapt On-Ear
 0x470000 // Arduino 101
 0xF00000 // Bose QuietComfort 35 II
 0xF00400 // T10
+0x003B41 // M&D MW65
+0x003D8A // Cleer FLOW Ⅱ
+0x005BC3 // Panasonic RP-HD610N
+0x008F7D // soundcore Glow Mini
+0x00A168 // boAt  Airdopes 621
+0x00AA48 // Jabra Elite 2
+0x00AA91 // Beoplay E8 2.0
+0x00B727 // Smart Controller 1
+0x00C95C // Sony WF-1000X
+0x00FA72 // Pioneer SE-MS9BN
+0x0100F0 // Bose QuietComfort 35 II
+0x011242 // Nirvana Ion
+0x013D8A // Cleer EDGE Voice
+0x01AA91 // Beoplay H9 3rd Generation
 ```
 JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
