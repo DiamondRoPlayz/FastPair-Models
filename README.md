@@ -62,14 +62,10 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x02AA91 // B&O Earset
 0x02C95C // Sony WH-1000XM2
 0x02D815 // ATH-CK1TW
-0x02D886 // JBL REFLECT MINI NC
-0x02DD4F // JBL TUNE770NC
 0x02E2A9 // TCL MOVEAUDIO S200
-0x02F637 // JBL LIVE FLEX
 0x035754 // Plantronics PLT_K2
 0x035764 // PLT V8200 Series
 0x038B91 // DENON AH-C830NCW
-0x038CC7 // JBL TUNE760NC
 0x038F16 // Beats Studio Buds
 0x039F8F // Michael Kors Darci 5e
 0x03AA91 // B&O Beoplay H8i
@@ -79,6 +75,24 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x03F5D4 // Writing Account Key
 0x045754 // Plantronics PLT_K2
 0x045764 // PLT V8200 Series
+
+0x04AA91 // Beoplay H4
+0x04C95C // Sony WI-1000X
+0x050F0C // Major III Voice
+0x052CC7 // MINOR III
+0x0577B1 // Galaxy S23 Ultra
+0x057802 // TicWatch Pro 5
+0x0582FD // Pixel Buds
+0x058D08 // WH-1000XM4
+0x05A963 // WONDERBOOM 3
+0x05A9BC // Galaxy S20+
+0x05AA91 // B&O Beoplay E6
+0x05C95C // Sony WI-1000X
+0x06AE20 // Galaxy S21 5G
+0x06C197 // OPPO Enco Air3 Pro
+0x06C95C // Sony WH-1000XM2
+0x06D8FC // soundcore Liberty 4 NC
+0x0744B6 // Technics EAH-AZ60M2
 ```
 JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
@@ -109,6 +123,17 @@ JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 0xF00213 // JBL LIVE650BTNC - Black
 0xF00214 // JBL LIVE650BTNC - White
 0xF00215 // JBL LIVE650BTNC - Blue
+
+0x02D886 // JBL REFLECT MINI NC
+0x02DD4F // JBL TUNE770NC
+0x02F637 // JBL LIVE FLEX
+0x038CC7 // JBL TUNE760NC
+
+0x04ACFC // JBL WAVE BEAM - Blue
+0x04AFB8 // JBL TUNE 720BT
+0x054B2D // JBL TUNE125TWS
+0x05C452 // JBL LIVE220BT
+0x0660D7 // JBL LIVE770NC
 ```
 LG devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
