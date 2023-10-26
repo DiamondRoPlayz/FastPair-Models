@@ -45,8 +45,8 @@ JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 0xF00201 // JBL Everest 110GA - Gun Metal
 0xF00202 // JBL Everest 110GA - Silver
 
-0xF00203 // JBL Everest 310GA - Gun Metal
-0xF00204 // JBL Everest 310GA - Black
+0xF00203 // JBL Everest 310GA - Brown
+0xF00204 // JBL Everest 310GA - Gun Metal
 0xF00205 // JBL Everest 310GA - Silver
 0xF00206 // JBL Everest 310GA - Purple
 
