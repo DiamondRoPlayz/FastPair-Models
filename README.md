@@ -39,6 +39,36 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x470000 // Arduino 101
 0xF00000 // Bose QuietComfort 35 II
 ```
+JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
+```js
+0xF00200 // JBL Everest 110GA - Gun Metal
+0xF00201 // JBL Everest 110GA - Gun Metal
+0xF00202 // JBL Everest 110GA - Silver
+
+0xF00203 // JBL Everest 310GA - Gun Metal
+0xF00204 // JBL Everest 310GA - Black
+0xF00205 // JBL Everest 310GA - Silver
+0xF00206 // JBL Everest 310GA - Purple
+
+0xF00207 // JBL Everest 710GA - Gun Metal
+0xF00208 // JBL Everest 710GA - Silver
+
+0xF00209 // JBL LIVE400BT - Black
+0xF0020A // JBL LIVE400BT - White
+0xF0020B // JBL LIVE400BT - Blue
+0xF0020C // JBL LIVE400BT - Red
+0xF0020D // JBL LIVE400BT - Black
+
+0xF0020E // JBL LIVE500BT - Black
+0xF0020F // JBL LIVE500BT - White
+0xF00210 // JBL LIVE500BT - Blue
+0xF00211 // JBL LIVE500BT - Red
+0xF00212 // JBL LIVE500BT - Black
+
+0xF00213 // JBL LIVE650BTNC - Black
+0xF00214 // JBL LIVE650BTNC - White
+0xF00215 // JBL LIVE650BTNC - Blue
+```
 
 <br>
 
