@@ -69,6 +69,19 @@ JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 0xF00214 // JBL LIVE650BTNC - White
 0xF00215 // JBL LIVE650BTNC - Blue
 ```
+LG devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
+```js
+0xF00300 // LG HBS-835S
+0xF00301 // LG HBS-835
+0xF00302 // LG HBS-830
+0xF00303 // LG HBS-930
+0xF00304 // LG HBS-1010
+0xF00305 // LG HBS-1500
+0xF00306 // LG HBS-1700
+0xF00307 // LG HBS-1120
+0xF00308 // LG HBS-1125
+0xF00309 // LG HBS-2000
+```
 
 <br>
 
