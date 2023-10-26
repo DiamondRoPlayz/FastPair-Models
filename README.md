@@ -38,6 +38,7 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x003000 // Libratone Q Adapt On-Ear
 0x470000 // Arduino 101
 0xF00000 // Bose QuietComfort 35 II
+0xF00400 // T10
 ```
 JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
