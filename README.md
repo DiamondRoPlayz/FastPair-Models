@@ -93,6 +93,10 @@ Genuine devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPla
 0x06C95C // Sony WH-1000XM2
 0x06D8FC // soundcore Liberty 4 NC
 0x0744B6 // Technics EAH-AZ60M2
+
+0x07A41C // WF-C700N
+0x07C95C // Sony WH-1000XM2
+0x07F426 // Nest Hub Max
 ```
 JBL devices, Discovered by [@DiamondRoPlayz](https://github.com/DiamondRoPlayz)
 ```js
